@@ -1,0 +1,6 @@
+C:\Users\user\go\src\github.com\ryanjeric>cd 01_hello
+
+C:\Users\user\go\src\github.com\ryanjeric\01_hello>go run main.go
+Hello World
+
+C:\Users\user\go\src\github.com\ryanjeric\01_hello>go install # check bin folder
